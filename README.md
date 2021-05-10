@@ -36,7 +36,7 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-## Stack
+## Tech Stack
 
 <div align="center"><img src="https://img.shields.io/badge/delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>&nbsp 
