@@ -32,7 +32,7 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://instagram.com/j_m_xxy" target="_blank">
+<a href="https://www.instagram.com/j_m__xxy/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
