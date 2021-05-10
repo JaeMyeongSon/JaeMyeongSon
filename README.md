@@ -32,11 +32,13 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<img src="https://img.shields.io/badge/delphi-3766AB?style=flat-square&logo=delphi&logoColor=white"/></a>&nbsp 
-
 <a href="https://www.instagram.com/j_m__xxy/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+## Stack
+
+<div align="center">><img src="https://img.shields.io/badge/delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/></a>&nbsp 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaeMyeongSon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
