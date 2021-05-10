@@ -40,7 +40,7 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 
 <div align="center"><img src="https://img.shields.io/badge/delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Amazon-232F3E?style=flat-square&logo=Amazon&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/AmazonAws-232F3E?style=flat-square&logo=AmazonAws&logoColor=white"/></a>&nbsp 
 
 
 ## Github Stats  
