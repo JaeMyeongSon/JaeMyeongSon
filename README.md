@@ -1,5 +1,7 @@
-## JAEMYEONG SON | GITHUB PROFILE
-- 👋 Hi, I’m @JaeMyeongSon
+## JAEMYEONG SON 
+# - 👋 Hi, I’m @JaeMyeongSon
+I am an 19-year-old Korean high school student and interested in Computer Science Engineering (CSE).
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
