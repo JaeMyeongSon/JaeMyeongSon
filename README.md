@@ -27,6 +27,11 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 <a href="https://github.com/JaeMyeongSon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
+## Stack
+div align="center"><img src="https://simpleicons.org/icons/delphi.svg" align="center" /></div>  
+
+<br/>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaeMyeongSon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
