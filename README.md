@@ -40,6 +40,8 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 
 <div align="center"><img src="https://img.shields.io/badge/delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white"/></a>&nbsp 
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaeMyeongSon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
