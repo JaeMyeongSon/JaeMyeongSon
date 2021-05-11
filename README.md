@@ -39,6 +39,8 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 - Unreal Engine 4
 - Unity 
 
+## Education
+
 ### - 💞️ I’m looking to collaborate on ...
 - We are waiting for innovative project proposals that can contribute to the world. :)
 
