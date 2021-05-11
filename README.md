@@ -12,6 +12,7 @@
 - 안티치트
 - 윈도우 어플리케이션 개발
 - 게임 해킹, 게임 보안
+- 보안 플랫폼
 --->
 
 ### - 👋 Hi, I’m @JaeMyeongSon
@@ -33,6 +34,10 @@ I am an 19-year-old Korean high school student and interested in Computer Scienc
 - Visual design
 - Modern Python programming language
 - Modern Delphi programming language
+- Modern C programming language
+- Modern C++ programming laguage
+- Unreal Engine 4
+- Unity 
 
 ### - 💞️ I’m looking to collaborate on ...
 - We are waiting for innovative project proposals that can contribute to the world. :)
