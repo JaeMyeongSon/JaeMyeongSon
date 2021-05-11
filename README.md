@@ -3,6 +3,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
+<!---
+### - 👋 안녕하세요, 저는 손재명입니다.
+현재 한국의 오산정보고등학교 IT 콘텐츠학과 3학년으로 재학중이며 컴퓨터 공학에 관심이 있습니다.
+### - 👀 관심분야
+- 인공지능 
+- 디도스 방어
+- 안티치트
+- 윈도우 어플리케이션 개발
+- 게임 해킹, 게임 보안
+--->
+
 ### - 👋 Hi, I’m @JaeMyeongSon
 I am an 19-year-old Korean high school student and interested in Computer Science Engineering (CSE).
 
