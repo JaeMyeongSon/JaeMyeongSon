@@ -16,7 +16,7 @@
 --->
 
 ### - 👋 Hi, I’m @JaeMyeongSon
-I am an 19-year-old Korean high school student and interested in Computer Science Engineering (CSE).
+I am an 20-year-old Korean high school student and interested in Computer Science Engineering (CSE).
 
 ### - 👀 I’m interested in ...
 - AI 
