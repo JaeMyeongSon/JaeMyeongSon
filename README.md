@@ -25,6 +25,8 @@ I am an 20-year-old Korean high school student and interested in Computer Scienc
 - Windows Application
 - Unity 3D
 - Game Hacking
+- Web Hacking
+- NFT 
 
 ### - 🌱 I’m currently learning ...
 - Data structure & Algorithm
@@ -39,6 +41,7 @@ I am an 20-year-old Korean high school student and interested in Computer Scienc
 - Modern C++ programming laguage
 - Unreal Engine 4
 - Unity 
+- Node.Js
 
 ## Education
 
