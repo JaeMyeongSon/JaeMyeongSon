@@ -70,7 +70,11 @@ I am an 20-year-old Korean high school student and interested in Computer Scienc
 
 <div align="center"><img src="https://img.shields.io/badge/delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 ## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaeMyeongSon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
