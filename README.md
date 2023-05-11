@@ -52,7 +52,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![DELPHI](https://img.shields.io/badge/delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
+![DELPHI](https://img.shields.io/badge/delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
 ### 📚 백엔드
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
