@@ -15,6 +15,29 @@
 - 보안 플랫폼
 --->
 
+### - 👋 안녕하세요. 한컴프론티스에서 Backend Staff Researcher Engineer로 직책을 맡고있는 손재명 입니다.
+더 좋은 개발 문화를 만들고 더 좋은 코드와 더 좋은 서버 아키텍처로 발전 시키고 싶습니다.
+
+### - 📫 언제든 저에게 연락주세요. 커피챗은 언제나 환영입니다.
+<div align="center">
+<a href="https://github.com/JaeMyeongSon" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/j_m__xxy/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
+<a href="https://www.facebook.com/profile.php?id=100009092643236" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%#0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCGEF9sNLej6yaWFI2AkVTNg" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+
+<!--
+
 ### - 👋 Hi, I’m @JaeMyeongSon
 I am an 20-year-old Korean high school student and interested in Computer Science Engineering (CSE).
 
@@ -86,6 +109,7 @@ I am an 20-year-old Korean high school student and interested in Computer Scienc
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaeMyeongSon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+-->
 
 <!---
 JaeMyeongSon/JaeMyeongSon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
