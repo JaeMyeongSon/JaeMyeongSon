@@ -22,7 +22,7 @@
 <div align="center">
         
 <a href="https://linktr.ee/jaemyeongson" target="_blank">
-<img src=ttps://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white alt=linktree style="margin-bottom: 5px;" />
 </a>  
         
 <a href="https://github.com/JaeMyeongSon" target="_blank">
