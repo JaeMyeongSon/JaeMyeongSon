@@ -29,7 +29,7 @@
 </a>  
 
 <a href="https://www.facebook.com/profile.php?id=100009092643236" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%#0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCGEF9sNLej6yaWFI2AkVTNg" target="_blank">
