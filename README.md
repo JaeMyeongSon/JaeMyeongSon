@@ -20,6 +20,11 @@
 
 ### - 📫 언제든 저에게 연락주세요. 커피챗은 언제나 환영입니다.
 <div align="center">
+        
+<a href="https://linktr.ee/jaemyeongson" target="_blank">
+<img src=ttps://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+        
 <a href="https://github.com/JaeMyeongSon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
