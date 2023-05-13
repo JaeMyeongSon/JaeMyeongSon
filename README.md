@@ -1,7 +1,9 @@
 ## JAEMYEONG SON 
+<!---
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
+--->
 
 <!---
 ### - 👋 안녕하세요, 저는 손재명입니다.
