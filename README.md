@@ -103,9 +103,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
         ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaemyeongson-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaemyeongson&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
